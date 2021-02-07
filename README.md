@@ -4,6 +4,7 @@ I'm Franco Ortiz, a full stack developer focused on the front-end.
 I like to design and apply all my knowledge to create good work and memorable experiences.
 
 - 🔭 I’m currently working on QuizzMeApp a mobile application made in react native.
+- 🌱 I'm looking to get a job where I can expand my knowledge.
 - 📫 Feel free to contact me: ortiz.franco@yandex.com
 - ⚡ Portfolio: https://pakvothe.github.io/portfolio/
 
