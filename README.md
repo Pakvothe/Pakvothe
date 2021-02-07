@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Franco Ortiz, a full stack developer focused on the front-end. 
+I like to design and apply all my knowledge to create good work and memorable experiences.
+
+- 🔭 I’m currently working on QuizzMeApp a mobile application made in react native.
+- 📫 Feel free to contact me: ortiz.franco@yandex.com
+
 <!--
 **Pakvothe/Pakvothe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
