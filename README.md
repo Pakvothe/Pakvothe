@@ -1,24 +1,10 @@
 ### Hi there 👋
 
-I'm Franco Ortiz, a full stack developer focused on the front-end. 
+I'm Franco Ortiz, a full stack developer focused on the front-end and mobile development. 
 I like to design and apply all my knowledge to create good work and memorable experiences.
 
-- 🔭 I’m currently working on QuizzMeApp a mobile application made in react native.
+- 🔭 I'm currently studying TypeScript to improve my stack.
 - 🌱 I'm looking to get a job where I can expand my knowledge.
 - 📫 Feel free to contact me: ortiz.franco@yandex.com
 - ⚡ Portfolio: https://pakvothe.github.io/portfolio/
 - 💬 LinkedIn: https://www.linkedin.com/in/franco-david-ortiz/
-<!--
-**Pakvothe/Pakvothe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
