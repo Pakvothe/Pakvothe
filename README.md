@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Franco Ortiz, a web developer focused on the front-end.
+I'm Franco Ortiz, a Frontend developer.
 I like to design and apply all my knowledge to create good work and memorable experiences.
 
 - 🌱 I'm currently working on belo.app
