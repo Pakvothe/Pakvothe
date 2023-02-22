@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I'm Franco Ortiz, a Frontend developer.
-I like to design and apply all my knowledge to create good work and memorable experiences.
+I'm Franco Ortiz, a **Frontend and Mobile Developer** passionate about creating **responsive, intuitive, and visually appealing user interfaces**. 
 
-- 🌱 I'm currently working on belo.app
-- 📫 Feel free to contact me: fr.dv.ortiz@gmail.com
-- ⚡ Portfolio: https://franco-ortiz.com/
-- 💬 LinkedIn: https://www.linkedin.com/in/franco-david-ortiz/
+🚀 **Let's collaborate and bring your ideas to life.** 
+
+- Currently working on [belo.app](https://belo.app) 🌱
+- Contact me at fr.dv.ortiz@gmail.com 📫
+- Check out my portfolio: [https://franco-ortiz.com/](https://franco-ortiz.com/) ⚡
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/franco-david-ortiz/) 💬
